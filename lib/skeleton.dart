@@ -144,7 +144,7 @@ class _SkeletonBodyState extends State<SkeletonBody> {
 }
 
 /* <-------------------
-Styling And other Things, these things are unrelated for this
+Styling And other Things, these things are unrelated for this project
 -------------------> */
 
 var smallGapHere = SizedBox(
